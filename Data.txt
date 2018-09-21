@@ -1,0 +1,11 @@
+T0;A;B;C;D;E;F;G;
+T1;B;D;F;H;J;L;N;
+T2;A;C;E;G;I;K;M;
+T3;F;G;H;I;J;K;L;M;N;
+T4;J;K;L;
+T5;A;C;D;
+T6;A;B;I;J;K;
+T7;A;E;F;G;H;
+T8;I;J;K;L;M;
+T9;A;B;C;D;E;F;G;H;I;J;K;
+T10;C;D;E;

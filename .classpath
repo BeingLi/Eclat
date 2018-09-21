@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="require_lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="require_lib/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="require_lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="require_lib/daemon.jar"/>
+	<classpathentry kind="lib" path="require_lib/daemonmanager.jar"/>
+	<classpathentry kind="lib" path="require_lib/hybdev.jar"/>
+	<classpathentry kind="lib" path="require_lib/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="require_lib/loader1.jar"/>
+	<classpathentry kind="lib" path="require_lib/loader2.jar"/>
+	<classpathentry kind="lib" path="require_lib/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="require_lib/mpi.jar"/>
+	<classpathentry kind="lib" path="require_lib/mpiExp.jar"/>
+	<classpathentry kind="lib" path="require_lib/mpj.jar"/>
+	<classpathentry kind="lib" path="require_lib/mpjbuf.jar"/>
+	<classpathentry kind="lib" path="require_lib/mpjdev.jar"/>
+	<classpathentry kind="lib" path="require_lib/mxdev.jar"/>
+	<classpathentry kind="lib" path="require_lib/niodev.jar"/>
+	<classpathentry kind="lib" path="require_lib/runtimecommon.jar"/>
+	<classpathentry kind="lib" path="require_lib/smpdev.jar"/>
+	<classpathentry kind="lib" path="require_lib/starter.jar"/>
+	<classpathentry kind="lib" path="require_lib/tools.jar"/>
+	<classpathentry kind="lib" path="require_lib/xdev.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
